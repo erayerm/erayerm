@@ -47,7 +47,6 @@
 <div align="center">
 <a href="https://github.com/erayerm">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=erayerm&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erayerm&theme=tokyonight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erayerm&theme=tokyonight" height="180em" />
 <br><br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erayerm&theme=tokyonight" height="180em" />
